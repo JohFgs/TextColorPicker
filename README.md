@@ -1,2 +1,2 @@
-# Prax-Team-ColorPicker
+# Prax Team ColorPicker
 ColorPicker For Brawl Stars
