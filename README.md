@@ -1,4 +1,4 @@
-# Prax Team ColorPicker
+# Mod By Prax Team Made by Nulls Team
 
 Brawl Stars Color Picker
 https://johfgs.github.io/Prax-Team-ColorPicker/
